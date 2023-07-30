@@ -13,9 +13,6 @@ I always try to evolve myself in terms of skills and knowledge. I am always on t
  • Data cleaning 
  • Data Visualization
 
-<!--
-**chiragarora0203/chiragarora0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analytics.
@@ -26,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chiragarora0203@gmail.com.
 - 😄 Pronouns: ... He/him.
 
--->
+
