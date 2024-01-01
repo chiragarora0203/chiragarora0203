@@ -1,6 +1,6 @@
  👋 Hi , Chirag Arora
 
-Currently I am Looking intern or Job as a Devops or SRE in carrer . where I can apply my technical skills and passion for ensuring the reliability and performance of complex systems. I aim to contribute to the success of an organization by implementing best practices, driving automation, and continuously improving the availability and scalability of infra
+Currently I am Looking intern or Job as a Devops or SRE in carrer . where I can apply my technical skills and passion for ensuring the reliability and performance of complex systems. I aim to contribute to the success of an organization by implementing best practices, driving automation, and continuously improving the availability and scalability of infrastructure .
 
 • Practical hands on - Linux , Python , Networking Fundamentals Git Hub 
 
