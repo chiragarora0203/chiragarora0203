@@ -1,25 +1,31 @@
  👋 Hi , Chirag Arora
 
-To secure a challenging and dynamic role as a Data Analyst where I can utilize my technical skills and passion for Data Analyze and Data  Visualization . To Leverage my skills and experience to contribute the growth of organization. Motivated and analytical professional with experience in evaluating dashboards and developing KPI reports. Additional growing fluency in artificial intelligence and product life cycle analytics. Focused collaborator dedicated to interdisciplinary communication.
+Currently I am Looking intern or Job as a Devops or SRE in carrer . where I can apply my technical skills and passion for ensuring the reliability and performance of complex systems. I aim to contribute to the success of an organization by implementing best practices, driving automation, and continuously improving the availability and scalability of infra
 
-My strong communication skills and attention to detail allow me to work in cross functional teams and provide valuable insights to drive strategic business decisions.
-I always try to evolve myself in terms of skills and knowledge. I am always on the lookout for new opportunities that can teach me something new and implement my pre-existing skills.
+• Practical hands on - Linux , Python , Networking Fundamentals Git Hub 
 
-📌 Highlighted expertise in:
- • SQL
- • Power Bi
- • Python Programming
- • Microsoft Excel
- • Data cleaning 
- • Data Visualization
+• Containers / Containers Orchestration : Docker , Kubernetes Basics Knowledge 
+
+• Cloud : AWS ( EC2 , S3 Bucket , Cloud Front , RDS , Autoscaling , ECS ), Microsoft Azure 
+
+• Cl / CD : Jenkins Knowledge 
+
+• Configure Management : Ansible Basics
+
+• Infrastructure Provising : Terraform Basics
+
+• Monitoring Tools : Cloud Watch , Grafana
+
+• Understanding in Agile Development Environment .
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Analytics.
-- 🌱 I’m currently learning Machine Learning and Natural Language Processing.
-- 👯 I’m looking to collaborate on building communities and developing innovitive solutions with AI.
+
+- 👯 I’m looking for DevOps and SRE Jobs .
 - 🤔 I’m looking for help with learning more and collaboration.
-- 💬 Ask me about Data science, learning.
+- 💬 Ask me about DevOps ,and Infrastructure
 - 📫 How to reach me: chiragarora0203@gmail.com.
 - 😄 Pronouns: ... He/him.
 
